@@ -1,2 +1,4 @@
 2026.02.02.
 
+터미널 한글 출력 오류
+save with encoding "EUC-KR" (기존 UTF-8)
