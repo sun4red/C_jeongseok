@@ -1,5 +1,6 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include "sub.h"
+#include "header.h"
 
 int multiply(int x, int y);
 int getUserInput(void);
@@ -28,7 +29,7 @@ void printGugudan(int dan)
     int i;
     for (i = 1; i <= 9; i++)
     {
-        int result = multiply(dan, i); 
+        int result = multiply(dan, i);
         printf("%d*%d=%2d\n", dan, i, result);
     }
 }

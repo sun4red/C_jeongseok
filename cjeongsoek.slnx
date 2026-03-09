@@ -1,0 +1,22 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/ch6/">
+    <File Path="ch6/6_1.c" />
+    <File Path="ch6/6_2.c" />
+    <File Path="ch6/6_4.c" />
+    <File Path="ch6/6_5.c" />
+    <File Path="ch6/6_6.c" />
+    <File Path="ch6/main.c" />
+    <File Path="ch6/Quiz6-2.c" />
+    <File Path="ch6/Quiz6-3.c" />
+    <File Path="ch6/Quiz6-4.c" />
+    <File Path="ch6/sub.c" />
+    <File Path="ch6/sub.h" />
+    <Project Path="ch6/ch6_p1/Project1.vcxproj" Id="6c62c0a2-d207-46e6-a7bf-f349019caa15" />
+    <Project Path="ch6/ch6_p2/ch6_p2.vcxproj" Id="78436cd9-8554-4f24-8359-973eb06242d0" />
+    <Project Path="ch6/ch6_p3/ch6_p3.vcxproj" Id="1460f48e-a4dd-4ab2-81d8-692beaaf5ba3" />
+  </Folder>
+</Solution>
