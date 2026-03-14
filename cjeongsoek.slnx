@@ -18,5 +18,6 @@
     <Project Path="ch6/ch6_p1/Project1.vcxproj" Id="6c62c0a2-d207-46e6-a7bf-f349019caa15" />
     <Project Path="ch6/ch6_p2/ch6_p2.vcxproj" Id="78436cd9-8554-4f24-8359-973eb06242d0" />
     <Project Path="ch6/ch6_p3/ch6_p3.vcxproj" Id="1460f48e-a4dd-4ab2-81d8-692beaaf5ba3" />
+    <Project Path="ch6/ch6_p4/ch6_p4.vcxproj" Id="85f6d0bc-eeed-4343-8ce6-83551e2d3c9a" />
   </Folder>
 </Solution>
